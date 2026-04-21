@@ -69,11 +69,15 @@ Evaluation Metrics:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn.
+------------------
+
 🔮 Future Improvements
 Streamlit Dashboard
 Real-time Prediction App
 Deep Learning Models
 YouTube API Integration
+-------------------------------------------------
+
 👨‍💻 Author
 Kalyani
 Aspiring Data Analyst | Machine Learning Enthusiast
